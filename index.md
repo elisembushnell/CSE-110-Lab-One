@@ -1,9 +1,7 @@
 # Hi, my name is Elise Bushnell!
-![profile-pic.jpg](https://elisembushnell.github.io/CSE-110-Lab-One/profile-pic.jpg)
+![profile-pic.jpg](./profile-pic.jpg)
 
 > I am a **third year** computer science major. 
-
-
 
 ## My Internship
 [Internship Routine](#internship-routine)
