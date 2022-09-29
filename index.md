@@ -1,7 +1,7 @@
 # Hi, my name is Elise Bushnell!
-![ImageOne](profile-pic.jpg)
+![ImageOne](gardens.JPG)
 I am a **third year** computer science major. This past summer, I had a software engineering internship at **Qualtrics**, so I got to experience what >being in the industry
-is like. Here is a [link](https://www.qualtrics.com) to their website. Here is what their [gardens](gardens.jpg) look like. The languages I used this summer were:
+is like. Here is a [link](https://www.qualtrics.com) to their website. Here is what their [gardens](gardens.JPG) look like. The languages I used this summer were:
 - Typescript
 - HTML
 - CSS
