@@ -1,5 +1,5 @@
 # Hi, my name is Elise Bushnell!
-![ImageOne](gardens.JPG)
+![profile-pic.jpg](profile-pic.jpg)
 
 I am a **third year** computer science major. 
 
@@ -7,10 +7,12 @@ I am a **third year** computer science major.
 
 ## My Internship
 [Internship Routine](#internship-routine)
+
 [Internship Project Flow](#internship-project-flow)
 
-This past summer, I had a software engineering internship at **Qualtrics**, so I got to experience what >being in the industry
-is like. Here is a [link](https://www.qualtrics.com) to their website. Here is what their [gardens](gardens.JPG) look like. The languages I used this summer were:
+This past summer, I had a software engineering internship at **Qualtrics**, so I got to experience what 
+>being in the industry
+is like. Here is a [link](https://www.qualtrics.com) to their website. Here is what their [gardens](gardens.jpg) look like. The languages I used this summer were:
 - Typescript
 - HTML
 - CSS
