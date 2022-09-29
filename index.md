@@ -1,7 +1,7 @@
 # Hi, my name is Elise Bushnell!
-![profile-pic.jpg](profile-pic.jpg)
+![profile-pic.jpg](https://elisembushnell.github.io/CSE-110-Lab-One/profile-pic.jpg)
 
-I am a **third year** computer science major. 
+> I am a **third year** computer science major. 
 
 
 
@@ -10,9 +10,8 @@ I am a **third year** computer science major.
 
 [Internship Project Flow](#internship-project-flow)
 
-This past summer, I had a software engineering internship at **Qualtrics**, so I got to experience what 
->being in the industry
-is like. Here is a [link](https://www.qualtrics.com) to their website. Here is what their [gardens](gardens.jpg) look like. The languages I used this summer were:
+This past summer, I had a software engineering internship at **Qualtrics**, so I got to experience what being in the industry
+is like. Here is a [link](https://www.qualtrics.com) to their website. Here is what their [gardens](https://elisembushnell.github.io/CSE-110-Lab-One/gardens.jpg) look like. The languages I used this summer were:
 - Typescript
 - HTML
 - CSS
@@ -28,8 +27,8 @@ My daily routine consisted of:
 6. Maybe some other meetings
    
 ### Internship Project Flow
-I completed two projects. The process for these projects included:
-- [ ] Create design docs
+
+- [x] Create design docs
 - [ ] Implement UI
 - [ ] Design logic
 - [ ] Implement logic
